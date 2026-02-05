@@ -1,4 +1,5 @@
 📊 3-Statement Financial Model & Forecast Analysis
+
 📄 Project Overview
 This project consists of a fully integrated 3-Statement Financial Model designed to analyze historical performance (2014–2016) and project future financial health (2017–2021). The model links the Income Statement (P&L), Balance Sheet (BS), and supporting schedules (Debt and Fixed Assets) to create a dynamic tool for valuation and strategic decision-making. It includes scenario-based forecasting to assess various business outcomes.
 
