@@ -1,9 +1,11 @@
 📊 3-Statement Financial Model & Forecast Analysis
 
 📄 Project Overview
+
 This project consists of a fully integrated 3-Statement Financial Model designed to analyze historical performance (2014–2016) and project future financial health (2017–2021). The model links the Income Statement (P&L), Balance Sheet (BS), and supporting schedules (Debt and Fixed Assets) to create a dynamic tool for valuation and strategic decision-making. It includes scenario-based forecasting to assess various business outcomes.
 
 🏗️ Project Structure
+
 The workbook is organized into logical sections to ensure transparency and ease of audit:
 
 Data Foundation:
@@ -29,6 +31,7 @@ Fixed Assets Roll Forward: Tracks PP&E, Depreciation & Amortization (D&A), and C
 Financial Liabilities: A dedicated debt schedule calculating principal repayments and interest expenses over a 10-year period.
 
 🔍 Key Findings
+
 Historical Growth: Net Income saw a significant spike in 2016, reaching $303.2 million, up from $36.7 million in 2015.
 
 Forecast Horizon: The model projects steady revenue growth through 2021, with Net Income reaching $402.1 million in the "Best Case" scenario.
@@ -38,6 +41,7 @@ Efficiency Metrics: The model tracks operational efficiency with stabilized inve
 Debt Profile: The company maintains a structured repayment plan for its $615.8 million initial debt, with interest rates modeled at 9%.
 
 🛠️ Tools & Techniques Used
+
 Microsoft Excel: Advanced formula auditing and data organization.
 
 Financial Modeling: Integration of the 3 core financial statements.
@@ -49,6 +53,7 @@ Scenario Analysis: Implementation of "Best Case" and other scenario toggles to s
 Schedules: Building automated Fixed Asset and Debt Amortization tables.
 
 🚀 How to Use
+
 Review Inputs: Start with the Workings tab to understand how raw data is mapped to the statements.
 
 Toggle Scenarios: Navigate to the P&L tab (Cell C3) to switch between different forecast scenarios to see real-time updates across all statements.
@@ -58,6 +63,7 @@ Audit Schedules: Check the Fixed Assets and Financial Liabilities tabs to see ho
 Analyze Ratios: Use the bottom of the BS tab to monitor liquidity and efficiency ratios over the forecast period.
 
 ✍️ Author
+
 Project by: Md.RAHAM ULLAH CHOWDHURY
 
 Financial Modeling & Data Analysis
